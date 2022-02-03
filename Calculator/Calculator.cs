@@ -23,5 +23,9 @@ namespace Calculator
         {
             return Math.Pow(a, b);
         }
+        public int bab(int x, int y)
+        {
+            return x * y;
+        }
     }
 }
